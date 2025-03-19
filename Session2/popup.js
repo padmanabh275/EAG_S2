@@ -1,6 +1,6 @@
 // Get your API key from https://makersuite.google.com/app/apikey
-const GEMINI_API_KEY = 'AIzaSyD5-pnWcuac8gRUeOnMiXleStD5DKTEgkw';
-const WEATHER_API_KEY = 'e992d80a3a6ab5db0fc85f649d449065'; // You can get a free API key from OpenWeatherMap
+const GEMINI_API_KEY = 'Enter Your Gemini Key';
+const WEATHER_API_KEY = 'Enter Weather Key'; // You can get a free API key from OpenWeatherMap
 const TICKETMASTER_API_KEY = 'YOUR_TICKETMASTER_API_KEY'; // Replace with your Ticketmaster API key
 
 document.addEventListener('DOMContentLoaded', () => {
